@@ -1,0 +1,6 @@
+[submodule "task-manager"]
+	path = task-manager
+	url = https://github.com/drianodev/task-manager.git
+[submodule "task-api"]
+	path = task-api
+	url = https://github.com/drianodev/task-api.git
