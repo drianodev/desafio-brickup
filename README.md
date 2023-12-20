@@ -29,3 +29,9 @@ git submodule update --init --recursive
 - [Repositório Task API](https://github.com/drianodev/task-api)
 
 **Descrição:** Backend do projeto Task Manager desenvolvido como parte do desafio da Brickup. O aplicativo consiste em um gerenciador de tarefas, com funcionalidades para listar todas as tarefas, obter detalhes de uma tarefa específica, criar, atualizar e excluir tarefas.
+
+## Links Pessoais
+
+- [Perfil no GitHub](https://github.com/drianodev)
+- [Perfil no LinkedIn](https://www.linkedin.com/in/drianolma/)
+- [Vídeo do Projeto](https://www.youtube.com/watch?v=KbHHg4aDbLE)
